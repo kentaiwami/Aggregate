@@ -13,3 +13,6 @@
 [submodule "Shifree"]
 	path = Shifree
 	url = git@github.com:kentaiwami/Shifree.git
+[submodule "docker-proxy"]
+	path = docker-proxy
+	url = git@github.com:kentaiwami/docker-proxy.git
