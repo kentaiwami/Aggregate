@@ -1,0 +1,15 @@
+[submodule "portfolio"]
+	path = portfolio
+	url = git@github.com:kentaiwami/portfolio.git
+[submodule "git@github.com:kentaiwami/FiNote.git"]
+	path = git@github.com:kentaiwami/FiNote.git
+	url = git@github.com:kentaiwami/sumolog.git
+[submodule "FiNote"]
+	path = FiNote
+	url = git@github.com:kentaiwami/FiNote.git
+[submodule "sumolog"]
+	path = sumolog
+	url = git@github.com:kentaiwami/sumolog.git
+[submodule "Shifree"]
+	path = Shifree
+	url = git@github.com:kentaiwami/Shifree.git
