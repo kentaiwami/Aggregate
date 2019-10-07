@@ -16,3 +16,6 @@
 [submodule "docker-proxy"]
 	path = docker-proxy
 	url = git@github.com:kentaiwami/docker-proxy.git
+[submodule "slave-db"]
+	path = slave-db
+	url = git@github.com:kentaiwami/slave-db.git
