@@ -19,3 +19,6 @@
 [submodule "slave-db"]
 	path = slave-db
 	url = git@github.com:kentaiwami/slave-db.git
+[submodule "phpmyadmin"]
+	path = phpmyadmin
+	url = git@github.com:kentaiwami/phpmyadmin.git
