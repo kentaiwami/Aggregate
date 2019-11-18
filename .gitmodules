@@ -22,3 +22,6 @@
 [submodule "phpmyadmin"]
 	path = phpmyadmin
 	url = git@github.com:kentaiwami/phpmyadmin.git
+[submodule "portfolio-redirect"]
+	path = portfolio-redirect
+	url = git@github.com:kentaiwami/portfolio-redirect.git
